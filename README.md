@@ -17,3 +17,6 @@ Wheelie Action: Motorbikes can perform wheelies.
 Interactive CLI: Uses inquirer for an engaging command-line experience.
 
 Random VIN Generation: Ensures each vehicle has a unique identifier.
+
+
+** like to walkthrough: https://app.screencastify.com/v3/watch/GwmfYViphoi0C3MWxYd9
